@@ -1,11 +1,11 @@
-## :bulb: Animating science & thinking about intelligence and machine learning
+## :bulb: Student of physics
 
 <!-- showcase GIF of science animations -->  
-<!--:books: I'm learning about **biologically plausible machine learning** right now, also reading and thinking about **neuroscience** and **open science**.-->
+:books: Check out the [The Blank Spot newsletter](https://quentinwach.substack.com/) about science history that I am writing. 
 
 :hand: Collaborate with me on the projects directly here on GitHub!
-I create [science animations](https://github.com/QuentinWach/Animating-Science) and am working on [tutorials](https://quentinwach.github.io/Animating-Science/).
+Sometimes, I create [science animations](https://github.com/QuentinWach/Animating-Science) and I am working on related [tutorials](https://quentinwach.github.io/Animating-Science/) as well.
 
-:question: Ask me about animations with Scipy (Python, Matplotlib, Numpy etc.).
+:question: Do you want some good book recommendations or learn how to create animations with Scipy (Python, Matplotlib, Numpy etc.)? Something else?
 
 💬 You can also chat with me on [Twitter @QuentinWach](https://twitter.com/QuentinWach).

@@ -1,7 +1,7 @@
 ## :bulb: Student of physics
 
 <!-- showcase GIF of science animations -->  
-:books: Check out the [The Blank Spot newsletter](https://quentinwach.substack.com/) about science history that I am writing. 
+:books: Check out my [The Blank Spot newsletter](https://quentinwach.substack.com/) about science history.
 
 :hand: Collaborate with me on the projects directly here on GitHub!
 Sometimes, I create [science animations](https://github.com/QuentinWach/Animating-Science) and I am working on related [tutorials](https://quentinwach.github.io/Animating-Science/) as well.

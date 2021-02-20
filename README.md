@@ -1,11 +1,10 @@
 ## :bulb: Student of physics
 
-<!-- showcase GIF of science animations -->  
-:books: Check out my [The Blank Spot newsletter](https://quentinwach.substack.com/).
+<!-- showcase GIF of science animations -->
 
-:hand: Collaborate with me on the projects directly here on GitHub!
-Sometimes, I create [science animations](https://github.com/QuentinWach/Animating-Science) and I am working on related [tutorials](https://quentinwach.github.io/Animating-Science/) as well.
+:hand: Collaborate with me on projects! I have become obsessed with ebooks and how to revive them since the start of the pandemic. :books: Check out my [writing](https://quentinwach.substack.com/).
 
-:question: Do you want some good book recommendations or learn how to create animations with Scipy (Python, Matplotlib, Numpy etc.)? Something else?
+🖌 I also often work as a graphics or web designer. Sometimes, I create [science animations](https://github.com/QuentinWach/Animating-Science), too.
 
-💬 You can also chat with me on [Twitter @QuentinWach](https://twitter.com/QuentinWach).
+<!-- :question: -->
+💬 Chat with me on [Twitter @QuentinWach](https://twitter.com/QuentinWach).

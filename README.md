@@ -8,7 +8,7 @@ The methods and mechanisms that lead to innovation and the **expansion of knowle
 
 🖥 Currently, I am working on slowly moving from **scientific computing** for **physics** and **machine intelligence** to creating cross plattform applications.
 
-"[...] improvements to the way discoveries are made are more important than any single discovery." (Michael Nielson, Reinventing Discovery)
+> "[...] improvements to the way discoveries are made are more important than any single discovery." (Michael Nielson, Reinventing Discovery)
 
 <!-- :question: -->
 💬 Chat with me on [Twitter @QuentinWach](https://twitter.com/QuentinWach).

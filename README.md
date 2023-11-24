@@ -1,3 +1,5 @@
+**Hey! 👋 I'm Quentin and I am working on photonic integrated circuits.**
+
 <p><pre align="left">
 <strong>Quentin Wach</strong> | <a href="https://quentinwach.github.io/">HOMEPAGE</a> | <a href="https://twitter.com/QuentinWach">TWITTER</a>
 </pre></p>

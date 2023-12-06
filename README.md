@@ -1,6 +1,3 @@
-**Hey! 👋 I'm Quentin and I am working on photonic integrated circuits.**
-
-<!-- <p><pre align="left">
-<a href="https://quentinwach.github.io/">🏡 HOMEPAGE</a> | <a href="https://twitter.com/QuentinWach">🏡 X (TWITTER)</a> | <a href="https://www.linkedin.com/in/quentinwach/">💼 LINKEDIN</a>
-</pre></p> --> 
+**Hey! 👋**
+I am Quentin and I'm creating _photonic integrated circuits_ while developing new _design automation_ tools for this process. I hope to release something useful into the wild in 2024. If you are interested in chatting about this, feel free to reach out to me via e-mail or Twitter!
 

@@ -1,4 +1,10 @@
 **Hey! 👋**
-I am Quentin and I am extremely interested in computing, physics, and AI. 
+I am Quentin and I primarily work in areas involving computers, physics, and often both!
 
-Among other things, I'm creating _electronic and photonic integrated circuits_ while developing new _design automation_ tools for this process. I hope to release something useful into the wild in 2024. If you are interested in chatting about this, feel free to reach out to me via [X (formerly Twitter)](https://twitter.com/QuentinWach), or check out my website [www.quentinwach.com](https://quentinwach.com).
+Like building _opto-electronic integrated circuits_ for _quantum computers_, for _communication_, or _artificial intelligence_,
+developing _design, analysis, and automation tools_, 
+writing computer _simulations_ to answer questions in physics,
+training _deep neural networks_,
+and more.
+
+Feel free to reach out to me via [X (formerly Twitter)](https://twitter.com/QuentinWach), or check out my website [www.quentinwach.com](https://quentinwach.com).

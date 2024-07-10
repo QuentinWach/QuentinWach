@@ -1,5 +1,5 @@
 **Hey! 👋**
-I am Quentin and I primarily work in areas involving computers, physics, and often both!
+I am Quentin and I primarily work in areas involving computers, physics, and often both.
 
 Like building _opto-electronic integrated circuits_ for _quantum computers_, for _communication_, or _artificial intelligence_,
 developing _design, analysis, and automation tools_, 

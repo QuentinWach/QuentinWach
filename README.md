@@ -9,9 +9,4 @@ and more, simply trying to make myself useful.
 
 Feel free to reach out to me via [X (formerly Twitter)](https://twitter.com/QuentinWach), or check out my website [www.quentinwach.com](https://quentinwach.com).
 
-<!--[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&rank_icon=percentile&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)-->
-
-[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)
-
-
-[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&rank_icon=percentile&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)
+[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&show_icons=true&rank_icon=percentile&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)

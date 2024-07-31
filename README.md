@@ -12,3 +12,6 @@ Feel free to reach out to me via [X (formerly Twitter)](https://twitter.com/Quen
 <!--[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&rank_icon=percentile&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)-->
 
 [![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)
+
+
+[![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinWach&rank_icon=percentile&show_icons=true&include_all_commits=true&hide=contribs,issues&theme=graywhite)](https://github.com/QuentinWach/github-readme-stats)
